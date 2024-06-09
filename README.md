@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I've traveled to Antarctica in 2019!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryantanggr/)
-[![ePortfolio](https://img.shields.io/badge/ePortfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www/ryantanggr.com)
+[![ePortfolio](https://img.shields.io/badge/ePortfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.ryantanggr.com)
 
 ## Here are the tools, libraries, technologies, and Frameworks I've worked with:
 
