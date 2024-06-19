@@ -2,7 +2,7 @@
 ` Frontend Developer `
 
 - 👀 I’m interested in the challenge of turning beautiful concepts into reality
-- 🌱 I’m currently learning more libraries to use in React and Next.js projects. I'm also creating my own component library during this process.
+- 🌱 I’m currently learning more libraries to use in React and Next.js projects. Always on the leet code grind.
 - 📫 You can reach me at: tangguangran@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've traveled to Antarctica in 2019!
